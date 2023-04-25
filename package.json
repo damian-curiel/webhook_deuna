@@ -1,0 +1,26 @@
+{
+  "name": "webhook",
+  "version": "1.0.0",
+  "description": "damian webhook test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damian-curiel/webhook_deuna.git"
+  },
+  "keywords": [
+    "damian",
+    "wh"
+  ],
+  "author": "damian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damian-curiel/webhook_deuna/issues"
+  },
+  "homepage": "https://github.com/damian-curiel/webhook_deuna#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
