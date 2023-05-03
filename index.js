@@ -43,6 +43,7 @@ app.post('/webhook', (req, res) => {
 
   // Respond with the JSON object
   res.json(jsonResponse);
+  res.sendStatus(200);
 });
 
 app.listen(port, () => {
